@@ -5,13 +5,7 @@ A Python program which search the entered product on flipkart and give the top 1
 ### Module
 ```
 BeautifulSoup
-```
-```
 urllib
-```
-```
 json
-```
-```
 ssl
 ```
